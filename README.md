@@ -184,7 +184,7 @@ usermod -aG sudo magento
 ```
 Use the su command to switch to the new user account.
 ```
-su - magento
+su magento
 ```
 then run following command under /var/www/html/
 ```
